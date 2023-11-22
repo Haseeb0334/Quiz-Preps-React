@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Free:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Brands:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-font-awesome-5-brands: "Font Awesome 5 Brands";
+  --font-roboto: Roboto;
+  --font-font-awesome-5-free: "Font Awesome 5 Free";
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-xl: 1.25rem;
+  --font-size-13xl: 2rem;
+  --font-size-2xl-3: 1.33rem;
+  --font-size-29xl: 3rem;
+  --font-size-xs: 0.75rem;
+  --font-size-smi-8: 0.8rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-royalblue: #1266f1;
+  --color-gray-100: #757575;
+  --color-gray-200: rgba(0, 0, 0, 0.55);
+  --color-gray-300: rgba(0, 0, 0, 0.6);
+  --color-dimgray: #4f4f4f;
+  --color-forestgreen: #00b74a;
+  --color-silver: #bdbdbd;
+
+  /* Gaps */
+  --gap-9xs: 0.25rem;
+
+  /* Paddings */
+  --padding-41xl: 3.75rem;
+  --padding-29xl: 3rem;
+  --padding-xs: 0.75rem;
+  --padding-5xl: 1.5rem;
+  --padding-base: 1rem;
+  --padding-0: 0rem;
+  --padding-12xs: 0.06rem;
+  --padding-5xs: 0.5rem;
+  --padding-11xs: 0.13rem;
+  --padding-9xs: 0.25rem;
+  --padding-55xl-3: 4.64rem;
+  --padding-4xs: 0.56rem;
+  --padding-base-5: 0.97rem;
+  --padding-15xl: 2.13rem;
+  --padding-smi-3: 0.77rem;
+  --padding-9xs-4: 0.21rem;
+  --padding-10xs-2: 0.14rem;
+  --padding-6xs-2: 0.39rem;
+  --padding-10xs-5: 0.16rem;
+  --padding-11xs-3: 0.08rem;
+  --padding-110xl-8: 8.11rem;
+  --padding-111xl-2: 8.14rem;
+  --padding-3xs: 0.63rem;
+  --padding-7xs-9: 0.37rem;
+  --padding-5xs-6: 0.48rem;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-7xs: 6px;
+  --br-lg-5: 18.5px;
+  --br-9xs: 4px;
+}
